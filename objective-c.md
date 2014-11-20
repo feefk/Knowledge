@@ -6,3 +6,7 @@
 
 ### 兼容不同iOS版本和设备
 * [supporting-multiple-ios-versions-and-devices](http://www.raywenderlich.com/42591/supporting-multiple-ios-versions-and-devices)
+
+
+### ARC
+* [Transitioning to ARC Release Notes](https://developer.apple.com/library/mac/releasenotes/ObjectiveC/RN-TransitioningToARC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011226)
