@@ -20,3 +20,4 @@
 ### TestFlight
 
 * [iOS 8: Beta Testing with TestFlight](http://code.tutsplus.com/tutorials/ios-8-beta-testing-with-testflight--cms-22224)
+* [error...](http://help.testflightapp.com/customer/portal/articles/829652-received-an-unable-to-download-application-message-what-does-this-mean-)
