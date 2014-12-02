@@ -15,3 +15,8 @@
 * [Resource Management in View Controllers](https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/ViewLoadingandUnloading/ViewLoadingandUnloading.html)
 * [Efficient Memory Handling in UIViewController-Part 1](http://iphone2020.wordpress.com/2010/05/30/efficient-memory-handling-in-uiviewcontroller-part-1/)
 * [Efficient Memory Handling in UIViewController-Part 2](http://iphone2020.wordpress.com/2010/05/30/efficient-memory-handling-in-uiviewcontroller-part-2/)
+
+
+### TestFlight
+
+* [iOS 8: Beta Testing with TestFlight](http://code.tutsplus.com/tutorials/ios-8-beta-testing-with-testflight--cms-22224)
