@@ -20,6 +20,8 @@
 ### AutoLayout
 
 * [AutoLayout入门](http://blog.csdn.net/sxfcct/article/details/8776928)
+* [开始iOS 7中自动布局教程一](http://www.cocoachina.com/industry/20131203/7462.html)
+* [Beginning Auto Layout Tutorial in iOS 7: Part 2](http://www.raywenderlich.com/50319/beginning-auto-layout-tutorial-in-ios-7-part-2)
 
 ### TestFlight
 
