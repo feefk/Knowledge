@@ -7,6 +7,9 @@
 ### 兼容不同iOS版本和设备
 * [supporting-multiple-ios-versions-and-devices](http://www.raywenderlich.com/42591/supporting-multiple-ios-versions-and-devices)
 
+### Size Class
+* [learn-ios8-size-class](http://blog.callmewhy.com/2014/09/12/learn-ios8-size-class/)
+* [iOS界面开发的大一统](http://onevcat.com/2014/07/ios-ui-unique/)
 
 ### ARC
 * [Transitioning to ARC Release Notes](https://developer.apple.com/library/mac/releasenotes/ObjectiveC/RN-TransitioningToARC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011226)
