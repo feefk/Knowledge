@@ -20,3 +20,5 @@ sudo timedatectl set-timezone Asia/Shanghai // 直接修改到上海的时区
  
  * error 
    https://github.com/oerdnj/deb.sury.org/issues/56
+ * php5.5升级到5.6
+   https://github.com/laravel/framework/issues/16674
